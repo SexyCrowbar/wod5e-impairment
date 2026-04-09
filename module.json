@@ -2,11 +2,11 @@
   "id": "wod5e-impairment",
   "title": "WOD5e Impairment",
   "manifest": "https://github.com/SexyCrowbar/wod5e-impairment/releases/latest/download/module.json",
-  "download": "https://github.com/SexyCrowbar/wod5e-impairment/releases/download/1.0.0/module.zip",
-  "version": "1.0.0",
+  "download": "https://github.com/SexyCrowbar/wod5e-impairment/releases/download/1.0.1/module.zip",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "13",
-    "verified": "13"
+    "verified": "14"
   },
   "authors": [
     {
@@ -37,6 +37,9 @@
   "description": "",
   "esmodules": [
     "main.js"
+  ],
+  "styles": [
+    "styles.css"
   ],
   "languages": [
     {
